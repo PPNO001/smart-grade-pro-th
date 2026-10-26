@@ -1,0 +1,11 @@
+node_modules/
+.wrangler/
+.dev.vars
+.env*
+secrets*.json
+*Migration*.json
+*migration-data*.json
+backups/
+test-results/
+*.log
+!docs/migration-format.json

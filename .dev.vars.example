@@ -1,0 +1,6 @@
+ADMIN_EMAIL=teacher@example.com
+ADMIN_PASSWORD_HASH=GENERATE_WITH_NPM_RUN_PASSWORD
+SESSION_SECRET=GENERATE_AT_LEAST_32_RANDOM_BYTES
+# Enable Drive API and connect the teacher's Google account in the app settings.
+GOOGLE_CLIENT_ID=
+GOOGLE_CLIENT_SECRET=
